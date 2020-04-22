@@ -1,0 +1,32 @@
+{
+    "data": {
+      "from": "2019-08-12T12:30Z",
+      "to": "2019-08-12T13:00Z",
+      "connectivityMix": [
+        {
+          "connectivity": "wifi-5",
+          "perc": 4.8
+        },
+        {
+          "connectivity": "wifi-6",
+          "perc": 2.5
+        },
+        {
+          "connectivity": "3G",
+          "perc": 8.7
+        },
+        {
+          "connectivity": "fiber",
+          "perc": 46.5
+        },
+        {
+          "connectivity": "4G/LTE",
+          "perc": 16.1
+        },
+        {
+          "connectivity": "other",
+          "perc": 21.4
+        }
+      ]
+    }
+  }
