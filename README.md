@@ -10,7 +10,7 @@ We ask our JavaScript candidates to take this test as part of our recruitment pr
 
 ### What should it do?
 
-Your task is to write a React/Angular simple dashboard that displays the current mix of connectivity types in the UK using circular gauges (i.e. how much wifi, fiber, 4G etc.).
+Your task is to fork this repository and write a React/Angular simple dashboard that displays the current mix of connectivity types in the UK using circular gauges (i.e. how much wifi, fiber, 4G etc.).
 
 Details of an API that you can call to load the data that you should display are provided below. 
 
